@@ -1,9 +1,9 @@
 import React from 'react'
 
 function AboutPage() {
-    const developerName = '<Rosalinda>'
+    const developerName = 'Rosalinda P.'
     return (
-        <div id="about_page">
+        <div id="about_page" className="App-page">
             <h1>Our Project</h1>
             <p>
                 We're creating a simple React application.
